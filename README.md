@@ -1,0 +1,3 @@
+Nesta lista de exercicios eu aprendi a usar if e else encaixados e importar bibliotecas como "math" para fazer calculos mais complexos como raiz quadrada de um modo mais simplificado e "count" que não foi eexplicado no curso porem fui procurar saber como se usa e como funciona para poder completar um exercicio do curso.
+
+Nestes exercicios eu não achei nada muito dificil, até por que eu já tinha vindo fazer ele com uma experiencia previa de outros cursos.
